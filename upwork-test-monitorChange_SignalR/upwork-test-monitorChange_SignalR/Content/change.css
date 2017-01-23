@@ -1,0 +1,19 @@
+﻿
+
+
+
+#tableData > thead > tr > th:last-of-type {
+    background: #f9f9f9;
+}
+    #tableData > thead > tr > th:last-of-type button { width: 155px; }
+#tableDataBody tr > td:last-of-type {
+    white-space: nowrap;
+    
+}
+    #tableDataBody tr > td:last-of-type button { width: 75px; }
+    #tableDataBody tr > td:last-of-type button:last-of-type { margin-left: 5px; }
+
+#ClicksName { min-width: 75px;}
+
+/* inserting new element */
+/*#tr-createNewElement input[type='number'] { width: 25px; }*/
