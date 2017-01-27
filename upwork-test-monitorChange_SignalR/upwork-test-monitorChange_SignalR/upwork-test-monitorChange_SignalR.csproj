@@ -193,6 +193,8 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="DAL\DevTestRepository.cs" />
+    <Compile Include="DAL\IDevTestRepository.cs" />
     <Compile Include="DevTest.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
